@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/unit3_interculturality/static/css/main.e6c13ad2.css",
+    "main.js": "/unit3_interculturality/static/js/main.32ec59c6.js",
+    "static/js/453.a6a97343.chunk.js": "/unit3_interculturality/static/js/453.a6a97343.chunk.js",
+    "index.html": "/unit3_interculturality/index.html",
+    "main.e6c13ad2.css.map": "/unit3_interculturality/static/css/main.e6c13ad2.css.map",
+    "main.32ec59c6.js.map": "/unit3_interculturality/static/js/main.32ec59c6.js.map",
+    "453.a6a97343.chunk.js.map": "/unit3_interculturality/static/js/453.a6a97343.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.32ec59c6.js"
+  ]
+}
